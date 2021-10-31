@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Raftlabs/static/css/main.3390cf31.chunk.css",
+    "main.js": "/Raftlabs/static/js/main.10693120.chunk.js",
+    "main.js.map": "/Raftlabs/static/js/main.10693120.chunk.js.map",
+    "runtime-main.js": "/Raftlabs/static/js/runtime-main.d9541062.js",
+    "runtime-main.js.map": "/Raftlabs/static/js/runtime-main.d9541062.js.map",
+    "static/js/2.37ade327.chunk.js": "/Raftlabs/static/js/2.37ade327.chunk.js",
+    "static/js/2.37ade327.chunk.js.map": "/Raftlabs/static/js/2.37ade327.chunk.js.map",
+    "static/js/3.5ca15950.chunk.js": "/Raftlabs/static/js/3.5ca15950.chunk.js",
+    "static/js/3.5ca15950.chunk.js.map": "/Raftlabs/static/js/3.5ca15950.chunk.js.map",
+    "index.html": "/Raftlabs/index.html",
+    "static/css/main.3390cf31.chunk.css.map": "/Raftlabs/static/css/main.3390cf31.chunk.css.map",
+    "static/js/2.37ade327.chunk.js.LICENSE.txt": "/Raftlabs/static/js/2.37ade327.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d9541062.js",
+    "static/js/2.37ade327.chunk.js",
+    "static/css/main.3390cf31.chunk.css",
+    "static/js/main.10693120.chunk.js"
+  ]
+}
