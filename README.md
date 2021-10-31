@@ -10,12 +10,12 @@ connected.
 1. We can add new users
 2. Find out degree of separation between any two people in the app.
 
-[!Intial Users data] (https://github.com/medasaicharan6/Raftlabs/blob/master/IntialUsersdata.png)
+![Intial Users data] (https://github.com/medasaicharan6/Raftlabs/blob/master/IntialUsersdata.png)
 
 I have used session storage for storing users data and used depth first search for finding least degree of separation.
 
 ### Degree of separation
 For example: \
-If you select two people, let’s say rahul and dhruv, the application should show the degree
+If you select two people, let’s say rahul and dhruv, the application will show the degree
 of separation as follows. \
 rahul => sai => dhruv
