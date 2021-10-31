@@ -10,8 +10,8 @@ connected.
 1. We can add new users
 2. Find out degree of separation between any two people in the app.
 
-Default Users data:
-![Image] (https://github.com/medasaicharan6/Raftlabs/blob/master/IntialUsersdata.png)
+Default Users data: \
+![Image](https://github.com/medasaicharan6/Raftlabs/blob/master/IntialUsersdata.png)
 
 I have used session storage for storing users data and used depth first search for finding least degree of separation.
 
